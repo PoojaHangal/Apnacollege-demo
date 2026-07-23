@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my first git repository.
 <br>
-Author - Pooja Hangal
+Author - Pooja (Apna college)
